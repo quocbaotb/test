@@ -1,0 +1,6 @@
+{
+    "name": "test/core",
+    "description": "test composer",
+    "minimum-stability": "beta",
+    "require": {}
+}
