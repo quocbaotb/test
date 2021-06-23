@@ -1,6 +1,5 @@
 <?php
 namespace eBOSS\Functions;
-
 class fSqlTable extends fSqlConnect
 {
     public $Columns = array();
@@ -149,3 +148,5 @@ class fSqlTable extends fSqlConnect
 
 
 }
+
+
